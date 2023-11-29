@@ -9,4 +9,5 @@ Steps to execute:
 -> Run the app.py file using the following command,
 	pythoon app.py
 -> click on the link displayed in the console.
+	You can enter any username and password as db is not configured
 
